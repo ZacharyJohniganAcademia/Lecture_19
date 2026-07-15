@@ -3,3 +3,6 @@ title: "Lecture_19_Notes"
 output: html_document
 ---
 
+add <- function(x {
+return(x+3)
+})
